@@ -1,2 +1,4 @@
 # Hello-world
-test repostiory
+New to git hub 
+
+Trying got some type of skill using this platform
